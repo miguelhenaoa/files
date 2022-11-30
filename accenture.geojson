@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires - 24 de Noviembre 2120",
+        "country": "Argentina",
+        "address": "24 de Noviembre 2120, Parque Patricios. CABA, Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina, C1242AAT"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.40125973838137,
+          -34.637497789732436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires - Av. Independencia 4250",
+        "country": "Argentina",
+        "address": "Av. Independencia 4250, Mar del Plata, Buenos Aires, Argentina, 7600"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.56920121603267,
+          -38.01688182405299
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires - Bouchard 4191",
+        "country": "Argentina",
+        "address": "Bouchard 4191, Munro. Bs As., Buenos Aires, Argentina, 1605"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.5250339,
+          -34.5119106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Plata",
+        "country": "Argentina",
+        "address": "Diagonal 80 942, La Plata. Bs As., La Plata, Buenos Aires, Argentina, B1900CCN"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.9485536,
+          -34.9114421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosario",
+        "country": "Argentina",
+        "address": "Santa Fe 1173, Rosario. Santa Fe., Rosario, Santa Fe, Argentina, S2000ATO"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.6389877354337,
+          -32.9450982570292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago - Edificio Santiago Down Town",
+        "country": "Chile",
+        "address": "Avenida Libertador Bernardo O'Higgins 1449, Edificio Santiago Down Town — Torre 4, Piso 6., Santiago, Chile"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.6563744024468,
+          -33.4445000952896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago - Torre Apoquindo",
+        "country": "Chile",
+        "address": "Apoquindo 5550, Piso 14, Torre Apoquindo, Las Condes, Santiago Las Condes, Santiago, Chile"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.5796849,
+          -33.4124148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valparaíso - Avenida Argentina 540",
+        "country": "Chile",
+        "address": "Avenida Argentina 540, piso 6, Valparaíso, Chile, 2390302"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.603829,
+          -33.048613
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogotá - Carrera 7 #71-52",
+        "country": "Colombia",
+        "address": "Carrera 7 #71-52, Tower A, Office 1001 (Floor 10), Bogotá, Cundinamarca, Colombia, 110231"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.055073,
+          4.6541465
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogotá - Edificio Ecotek Calle 99",
+        "country": "Colombia",
+        "address": "Edificio Ecotek Calle 99 #10-57, Bogotá, Cundinamarca, Colombia, 110221"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.0435275,
+          4.6814882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medellín",
+        "country": "Colombia",
+        "address": "Calle 67 N° 52 -20 Barrio Sevilla de Medellín, Torre C piso 2 y / Torre B piso 5., Medellín, Antioquia, Colombia"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.5668907,
+          6.264641
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
